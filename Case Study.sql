@@ -1,5 +1,5 @@
 --1. A customer wants to know the films about “astronauts”. 
---How many recommendations could you give for him?
+--   How many recommendations could you give for him?
 
 SELECT COUNT(*) FROM film
 WHERE description LIKE '%Astronaut%';
