@@ -1,10 +1,15 @@
 # Case_study_SQL
 A file contain SQL script for SQL use case IYKRA
 
+Hi There!,
+In this repo, I try to learn about SQL command. By solving some bussiness problem, I want to upgrade my understanding about SQL and the logic to solve the problem. 
+If you have different result or difficulties, feel free to contact me.
+
+You can get the data set from below:
 Data set FROM : https://github.com/robconery/dvdrental 
 
 Scenario
-Please make SQL queries to answer these questions and post them in your github account!
+Please make SQL queries to answer these questions:
 1.	A customer wants to know the films about “astronauts”. How many recommendations could you give for him?
 2.	I wonder, how many films have a rating of “R” and a replacement cost between $5 and $15?
 3.	We have two staff members with staff IDs 1 and 2. We want to give a bonus to the staff member that handled the most payments. How many payments did each staff member handle? And how much was the total amount processed by each staff member?
